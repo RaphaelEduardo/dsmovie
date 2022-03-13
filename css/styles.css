@@ -3,7 +3,7 @@
 :root {
     --bg-gray: #e8e8e8;
     --color-primary: #4D41C0;
-    --white: #fff
+    --white: #ffffff
     --text-gray: #4a4a4a;
 }
 
@@ -102,3 +102,7 @@ a, a:hover {
     border-radius: 4px;
 }
 
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 480px;
+}
